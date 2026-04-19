@@ -63,4 +63,3 @@ This project was built as part of a collaborative team effort, focusing on commu
 This project is for educational purposes.
 
 ---
-لو عايز نسخة أقوى جدًا فيها
