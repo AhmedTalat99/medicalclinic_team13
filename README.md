@@ -63,9 +63,25 @@ flutter run
 This project was built as part of a collaborative team effort, focusing on communication, task management, and continuous improvement using Agile workflows.
 
 ---
-
 ## 📄 License
 
-This project is for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+## 📧 Contact & Support
+
+If you have any questions or need help, feel free to:
+
+- Open an [issue](https://github.com/yourusername/smart-expense-tracker/issues)
+- Email: ahmed99talat@gmail.com
+- LinkedIn: [Ahmed Talat](www.linkedin.com/in/ahmed-talat-41243b3bb)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it helpful!**
+
+Made with ❤️ and Flutter
 ---
