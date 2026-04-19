@@ -26,13 +26,13 @@ A Flutter-based medical clinic application developed as part of a team project d
 
 ## 📸 Demo
 
-<p align="center">
-  <img src="LINK1" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="LINK2" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="LINK3" width="250" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bdfb7576-fc41-44f0-a71f-93a9c282fc01" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f22d7688-abe1-4fdf-954a-2cdeb3af5bd0" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/075df43f-2c08-4475-bf8d-0d08ce2a8934" width="250"/></td>
+  </tr>
+</table>
 
 
 ---
